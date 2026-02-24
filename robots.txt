@@ -1,15 +1,5 @@
 User-agent: *
-Disallow: /_forgot/id
-Disallow: /_register
-Disallow: /_login
-Disallow: /member/login
-Disallow: /member/join
-Disallow: /terms
-Disallow: /notice
-Disallow: /support
-Disallow: /lang
-Disallow: /contact
-Disallow: /privacy
-Disallow: /abuse
-Sitemap:https://amanna.hair/user-sitemap
+Allow: /
+
+Sitemap: https://amanna.hair/sitemap.xml
 #DaumWebMasterTool:ad7905276e3d05b00fe3cdc656f3decd10aa6d4e69687249fa7a475503107096:6BcZ8wvX83qTA4T4UNcYzg==
